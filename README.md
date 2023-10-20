@@ -3,10 +3,9 @@
 </h1>
 
 <p>I'm a Fullstack developer, currently @ <b>Sunnyvale, California, USA</b>.</p>
-<h3>I love tech and coding in ..</h3>
-<h4>
+<h3>
   About Myself
-</h4>
+</h3>
 <P>
   I'm a graduate student majoring in software engineering at San Jose State University and worked as a software developer. I'm flexible, perceptive, open-minded, curious, and a critical thinker. I have a strong interest in innovation, technology, and lifelong learning. I'm constantly looking for projects to work on. 
 
