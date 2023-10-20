@@ -4,6 +4,16 @@
 
 <p>I'm a Fullstack developer, currently @ <b>Sunnyvale, California, USA</b>.</p>
 <h3>I love tech and coding in ..</h3>
+<h4>
+  About Myself
+</h4>
+<P>
+  I'm a graduate student majoring in software engineering at San Jose State University and worked as a software developer. I'm flexible, perceptive, open-minded, curious, and a critical thinker. I have a strong interest in innovation, technology, and lifelong learning. I'm constantly looking for projects to work on. 
+
+Software Developer with a strong focus on writing efficient, scalable, and reusable code 2 years of hands-on experience in building interactive web applications using python, Java, React.js,Node.js, PHP, Springboot, Javascript, HTML5, CSS3,MYSQL, Cloud Technologies, and Software testing.
+
+Looking forward to the Software related positions for full time job opportunities.
+</P>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technical+Skills;" alt="Typing SVG" /></a>
 <p>
   
